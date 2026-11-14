@@ -2,7 +2,6 @@
 
 一个基于 **Vue 3 + Vite + TypeScript** 的个人主页项目，提供时间展示、一言与常用网站导航等功能。整体使用 Vue Vapor 模式 + JSX 编写，最大化首屏渲染性能。
 
-> 原 fork 自 `imsyy/home`，已通过 Vapor 重写。
 
 ## 功能特性
 
